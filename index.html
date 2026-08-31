@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en" class="light">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script>
+      (() => {
+        let savedTheme = null;
+        try {
+          savedTheme = window.localStorage.getItem("teacher-dev-portfolio-theme");
+        } catch {
+          savedTheme = null;
+        }
+        const theme = savedTheme === "light" || savedTheme === "dark"
+          ? savedTheme
+          : (window.matchMedia?.("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+        document.documentElement.classList.toggle("dark", theme === "dark");
+        document.documentElement.classList.toggle("light", theme === "light");
+        document.documentElement.style.colorScheme = theme;
+      })();
+    </script>
+    <meta name="theme-color" content="#0B0F19" media="(prefers-color-scheme: dark)" />
+    <meta name="theme-color" content="#F8FAFC" media="(prefers-color-scheme: light)" />
+    <meta name="description" content="Personal portfolio of a primary school teacher, web developer, mobile app developer, and ethical hacking learner." />
+    <meta property="og:title" content="Teacher • Developer • Security Learner" />
+    <meta property="og:description" content="Educating the future. Coding the present. Securing the web." />
+    <title>Yair Thiha | Teacher • Developer • Security</title>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>

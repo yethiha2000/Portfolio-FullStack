@@ -1,0 +1,133 @@
+{
+  "nav": {
+    "about": "အကြောင်း",
+    "skills": "ကျွမ်းကျင်မှုများ",
+    "projects": "ပရောဂျက်များ",
+    "contact": "ဆက်သွယ်ရန်",
+    "settings": "ဆက်တင်များ"
+  },
+  "settings": {
+    "title": "ဆက်တင်များ",
+    "theme": "အပြင်အဆင်",
+    "light": "အလင်း",
+    "dark": "အမှောင်",
+    "language": "ဘာသာစကား",
+    "english": "English",
+    "burmese": "မြန်မာ",
+    "open": "ဆက်တင်များဖွင့်ရန်"
+  },
+  "hero": {
+    "badge": "ဆရာ • Developer • Security Learner",
+    "hello": "မင်္ဂလာပါ။ ကျွန်တော်က",
+    "title1": "အနာဂတ်ကို ပညာပေးနေတယ်။",
+    "title2": "လက်ရှိကို Code ရေးနေတယ်။",
+    "title3": "Web ကို လုံခြုံအောင် လေ့လာနေတယ်။",
+    "imA": "ကျွန်တော်က",
+    "description": "နည်းပညာကို စိတ်ဝင်စားသော မူလတန်းပြဆရာတစ်ဦးအနေဖြင့် အသုံးဝင်သော Digital Experience များ၊ Mobile Application များကို ဖန်တီးပြီး Web Security ကို လေ့လာနေပါတယ်။",
+    "viewProjects": "ပရောဂျက်များကြည့်ရန်",
+    "contact": "ဆက်သွယ်ရန်",
+    "teacher": "ဆရာ",
+    "developer": "Developer",
+    "securityLearner": "Security Learner",
+    "scrollAbout": "အကြောင်းအရာသို့ ဆင်းရန်",
+    "roles": [
+      "မူလတန်းပြဆရာ",
+      "Web Developer",
+      "Mobile App Developer",
+      "Cybersecurity Learner"
+    ]
+  },
+  "about": {
+    "label": "01 / ကျွန်တော့်အကြောင်း",
+    "principle1": "သင်ကြားခြင်းက စိတ်ရှည်မှုကို သင်ပေးခဲ့တယ်။",
+    "principle2": "Coding က ဇွဲရှိမှုကို သင်ပေးခဲ့တယ်။",
+    "principle3": "Security က စူးစမ်းလိုစိတ်ကို သင်ပေးခဲ့တယ်။",
+    "principle4": "အဲဒီအရာတွေက ပြဿနာဖြေရှင်းပုံကို ပုံဖော်ပေးတယ်။",
+    "title": "နည်းပညာကို ချစ်မြတ်နိုးတဲ့ ဆရာတစ်ယောက်။",
+    "paragraph1": "ကျွန်တော့်ရဲ့ ပရော်ဖက်ရှင်နယ်ခရီးက စာသင်ခန်းထဲကနေ စတင်ပါတယ်။ ဆက်သွယ်ပြောဆိုမှု၊ စိတ်ရှည်မှုနဲ့ ပြဿနာဖြေရှင်းမှုတွေက နေ့စဉ်ဘဝရဲ့ အစိတ်အပိုင်းတွေပါ။ စာသင်ခန်းအပြင်မှာတော့ Software Development နဲ့ Cybersecurity ကို လေ့လာနေပါတယ်။",
+    "paragraph2": "သင်ကြားပေးရင်း Programming ကို ကြည့်တဲ့ပုံစံလည်း ပြောင်းလဲလာပါတယ်။ တစ်ခုခု အလုပ်လုပ်မလုပ်ကိုသာ မေးတော့ဘဲ အသုံးပြုသူအတွက် နားလည်ရလွယ်၊ အသုံးပြုရလွယ်နဲ့ အသုံးဝင်မဝင်ကိုပါ စဉ်းစားပါတယ်။",
+    "teach": "သင်ကြားခြင်း",
+    "teachText": "ခက်ခဲတဲ့အကြောင်းအရာတွေကို ရိုးရှင်းပြီး နားလည်လွယ်အောင် ရှင်းပြရတာကို နှစ်သက်ပါတယ်။",
+    "build": "တည်ဆောက်ခြင်း",
+    "buildText": "Idea တွေကို အသုံးဝင်တဲ့ Web နဲ့ Mobile Application တွေအဖြစ် ပြောင်းလဲဖန်တီးပါတယ်။",
+    "secure": "လုံခြုံရေး",
+    "secureText": "Ethical Hacking နဲ့ Defensive Security ကို ဆက်လက်လေ့လာနေပါတယ်။",
+    "mentor": "လမ်းညွှန်ခြင်း",
+    "mentorText": "သင်ကြားခြင်းက ဆက်သွယ်ပြောဆို၊ ပူးပေါင်းဆောင်ရွက်ပြီး အခြားသူတွေကို လမ်းညွှန်ပေးနိုင်အောင် ကူညီပေးပါတယ်။"
+  },
+  "skills": {
+    "label": "02 / ကျွမ်းကျင်မှုများ",
+    "frontend": "Frontend & Backend",
+    "mobile": "Mobile App Development",
+    "security": "Ethical Hacking & Security",
+    "soft": "Soft Skills"
+  },
+  "projects": {
+    "label": "03 / ပရောဂျက်များ",
+    "title": "ကျွန်တော် တည်ဆောက်နေတဲ့အရာများ။",
+    "description": "Educational Technology၊ Application Development နဲ့ Cybersecurity ပရောဂျက်များကို ပေါင်းစပ်ထားပါတယ်။"
+  },
+  "contact": {
+    "label": "04 / ဆက်သွယ်ရန်",
+    "title": "အသုံးဝင်တဲ့အရာတစ်ခု အတူတည်ဆောက်ကြရအောင်။",
+    "description": "Project၊ Technology၊ Education ဒါမှမဟုတ် Cybersecurity အကြောင်း ဆွေးနွေးချင်ရင် ဆက်သွယ်နိုင်ပါတယ်။",
+    "name": "အမည်",
+    "email": "Email",
+    "message": "စာ",
+    "namePlaceholder": "သင့်အမည်",
+    "emailPlaceholder": "သင့် Email",
+    "messagePlaceholder": "သင်လုပ်နေတဲ့အရာအကြောင်း ပြောပြပါ...",
+    "send": "စာပို့ရန်",
+    "formNote": "သင့်စာကို Portfolio Backend သို့ လုံခြုံစွာ ပေးပို့ပါမည်။",
+    "thanks": "ကျေးဇူးတင်ပါတယ်။ Production မှာအသုံးမပြုမီ ဒီ Form ကို Email Service နဲ့ ချိတ်ဆက်ပေးပါ။",
+    "sending": "ပို့နေသည်...",
+    "success": "ကျေးဇူးတင်ပါတယ်။ သင့်စာကို လက်ခံရရှိပါပြီ။",
+    "error": "ယခုအချိန်တွင် စာပို့၍မရပါ။ ခဏအကြာတွင် ထပ်ကြိုးစားပါ။"
+  },
+  "profile": {
+    "label": "ကိုယ်ရေးအချက်အလက်",
+    "available": "အလုပ်လုပ်နိုင်",
+    "alt": "Ye Thiha - ဆရာ၊ Web Developer နှင့် Security Learner",
+    "location": "မြန်မာ",
+    "web": "Web Development",
+    "webText": "ခေတ်မီပြီး အသုံးဝင်တဲ့ Digital Experience များ",
+    "cyber": "Cyber Security",
+    "cyberText": "Ethical Hacking & Web Security",
+    "education": "ပညာရေး",
+    "educationText": "သင်ကြားခြင်း၊ လမ်းညွှန်ခြင်းနှင့် ဆက်သွယ်ပြောဆိုခြင်း"
+  },
+  "footer": {
+    "quickLinks": "အမြန်လင့်များ",
+    "connect": "",
+    "copyright": "မူပိုင်ခွင့်အားလုံး ရယူထားသည်။",
+    "builtWith": "",
+    "madeWith": "",
+    "curiosity": "။"
+  },
+  "projectItems": {
+    "paddy": {
+      "title": "Paddy Tracker",
+      "description": "စိုက်ပျိုးရေးလုပ်သားများနှင့် အလေးချိန်အချက်အလက်များကို ထိရောက်စွာ မှတ်တမ်းတင်ရန် Mobile Workflow တစ်ခု။"
+    },
+    "learning": {
+      "title": "Educational Learning App",
+      "description": "သင်ခန်းစာများကို ပိုမိုရှင်းလင်း၊ ရင်းနှီးပြီး စိတ်ဝင်စားဖွယ်ဖြစ်စေရန် ဖန်တီးထားသော Interactive Learning Concept။"
+    },
+    "security": {
+      "title": "Security Automation Toolkit",
+      "description": "Reconnaissance၊ Enumeration နဲ့ Defensive Web Security Workflow တွေကို လေ့လာရန် Python Utilities များ။"
+    },
+    "portfolio": {
+      "title": "Developer Portfolio",
+      "description": "Technical Skills၊ Projects နဲ့ Professional Identity ကို ပြသရန် ဖန်တီးထားသော ခေတ်မီ Portfolio Experience။"
+    },
+    "lab": {
+      "title": "Web Security Lab",
+      "description": "OWASP Concepts နဲ့ Common Web Vulnerabilities တွေကို နားလည်လေ့လာရန် ကိုယ်ပိုင် Learning Environment။"
+    },
+    "dashboard": {
+      "title": "Teacher Dashboard",
+      "description": "ကျောင်းသားအချက်အလက်၊ စာသင်ခန်းလုပ်ဆောင်ချက်များနဲ့ Workflow များကို စုစည်းရန် Dashboard Concept။"
+    }
+  }
+}

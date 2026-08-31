@@ -1,0 +1,133 @@
+{
+  "nav": {
+    "about": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "contact": "Contact",
+    "settings": "Settings"
+  },
+  "settings": {
+    "title": "Settings",
+    "theme": "Theme",
+    "light": "Light",
+    "dark": "Dark",
+    "language": "Language",
+    "english": "English",
+    "burmese": "မြန်မာ",
+    "open": "Open settings"
+  },
+  "hero": {
+    "badge": "Teacher • Developer • Security Learner",
+    "hello": "",
+    "title1": "Educating the Future.",
+    "title2": "Coding the Present.",
+    "title3": "Securing the Web.",
+    "imA": "I'm a",
+    "description": "A Primary School Teacher passionate about technology, building useful digital experiences, developing mobile applications, and learning how to make the web safer.",
+    "viewProjects": "View Projects",
+    "contact": "Contact Me",
+    "teacher": "Teacher",
+    "developer": "Developer",
+    "securityLearner": "Security Learner",
+    "scrollAbout": "Scroll to About",
+    "roles": [
+      "Primary School Teacher",
+      "Web Developer",
+      "Mobile App Developer",
+      "Cybersecurity Learner"
+    ]
+  },
+  "about": {
+    "label": "01 / ABOUT ME",
+    "principle1": "Teaching taught me patience.",
+    "principle2": "Coding taught me persistence.",
+    "principle3": "Security taught me curiosity.",
+    "principle4": "Together, they shape how I solve problems.",
+    "title": "A teacher who loves technology.",
+    "paragraph1": "My professional journey starts in the classroom, where communication, patience and problem-solving are part of everyday life. Outside the classroom, I explore software development and cybersecurity.",
+    "paragraph2": "Teaching has changed the way I approach programming: instead of only asking whether something works, I also ask whether it is understandable, accessible and useful to the person using it.",
+    "teach": "Teach",
+    "teachText": "I enjoy breaking difficult ideas into simple, understandable concepts.",
+    "build": "Build",
+    "buildText": "I turn ideas into practical web and mobile applications.",
+    "secure": "Secure",
+    "secureText": "I continuously study ethical hacking and defensive security.",
+    "mentor": "Mentor",
+    "mentorText": "Teaching helps me communicate, collaborate and guide others."
+  },
+  "skills": {
+    "label": "02 / SKILLS",
+    "frontend": "Frontend & Backend",
+    "mobile": "Mobile App Development",
+    "security": "Ethical Hacking & Security",
+    "soft": "Soft Skills"
+  },
+  "projects": {
+    "label": "03 / PROJECTS",
+    "title": "Things I'm building.",
+    "description": "A mixture of educational technology, application development and cybersecurity projects."
+  },
+  "contact": {
+    "label": "04 / CONTACT",
+    "title": "Let's build something useful.",
+    "description": "Whether you want to discuss a project, technology, education or cybersecurity, feel free to reach out.",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "namePlaceholder": "Your name",
+    "emailPlaceholder": "Your email",
+    "messagePlaceholder": "Tell me what you're working on...",
+    "send": "Send Message",
+    "formNote": "Your message will be sent securely to the portfolio backend.",
+    "thanks": "Thanks! Your message has been received.",
+    "sending": "Sending...",
+    "success": "Thanks! Your message has been received.",
+    "error": "Unable to send your message right now. Please try again later."
+  },
+  "profile": {
+    "label": "PERSONAL PROFILE",
+    "available": "Available",
+    "alt": "Ye Thiha - Teacher, Web Developer and Security Learner",
+    "location": "Myanmar",
+    "web": "Web Development",
+    "webText": "Modern & useful digital experiences",
+    "cyber": "Cyber Security",
+    "cyberText": "Ethical hacking & web security",
+    "education": "Education",
+    "educationText": "Teaching, mentoring & communication"
+  },
+  "footer": {
+    "quickLinks": "Quick Links",
+    "connect": "",
+    "copyright": "All rights reserved.",
+    "builtWith": "",
+    "madeWith": "",
+    "curiosity": ""
+  },
+  "projectItems": {
+    "paddy": {
+      "title": "Paddy Tracker",
+      "description": "A mobile workflow for tracking agricultural workers and weighing information efficiently."
+    },
+    "learning": {
+      "title": "Educational Learning App",
+      "description": "An interactive learning concept designed to make lessons clearer, friendlier, and more engaging."
+    },
+    "security": {
+      "title": "Security Automation Toolkit",
+      "description": "Python utilities for learning reconnaissance, enumeration, and defensive web-security workflows."
+    },
+    "portfolio": {
+      "title": "Developer Portfolio",
+      "description": "A modern portfolio experience for presenting technical skills, projects, and professional identity."
+    },
+    "lab": {
+      "title": "Web Security Lab",
+      "description": "A personal learning environment for understanding OWASP concepts and common web vulnerabilities."
+    },
+    "dashboard": {
+      "title": "Teacher Dashboard",
+      "description": "A dashboard concept for organizing student information, classroom activities, and workflows."
+    }
+  }
+}
